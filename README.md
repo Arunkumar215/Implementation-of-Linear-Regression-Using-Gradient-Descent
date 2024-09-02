@@ -124,18 +124,22 @@ Compute Cost Value :
 
 
 ![image](https://github.com/user-attachments/assets/b416caf8-e350-4ab4-9cc5-510e61efe1c3)
+
 h(x) Value :
 
 
 ![image](https://github.com/user-attachments/assets/b8ff3c21-5279-42dc-b68a-2793eb1ac496)
+
 Cost function using Gradient Descent Graph :
 
 
 ![image](https://github.com/user-attachments/assets/c9509c03-e5e2-412b-8ac1-d33238d3c6b0)
+
 Profit for the Population 35,000 :
 
 
 ![image](https://github.com/user-attachments/assets/8c76b12f-5fd7-4d89-9cfb-9b4379596939)
+
 Profit for the Population 70,000 :
 
 
